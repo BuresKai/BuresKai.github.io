@@ -4,6 +4,8 @@ title: O Blogu
 permalink: /blog/
 ---
 
+![alt text](http://i.imgur.com/UF9NYkK.jpg "Header")
+
 ## Cílová skupina
 Milovníci psů, chovatelé, zájemci o chov vlčáka
 
