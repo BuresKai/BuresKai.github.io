@@ -2,6 +2,8 @@
 layout: post
 title: Oficiální tým blogu Wolfdog
 ---
+Stručné představení týmu autorů tohoto blogu.
+
 ## 1. člen
 Jméno: Katka Burešová
 
